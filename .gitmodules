@@ -1,0 +1,4 @@
+[submodule "NoteS"]
+	path = NoteS
+	url = https://github.com/anywaythanks/NoteS
+	branch = fix-java1
